@@ -1,0 +1,80 @@
+categoria_prodotto,disponibilita,prezzo,rating,recensioni,tipo_prodotto,titolo
+science fiction,19,43.6,1,0,books,Mesaerion: The Best Science Fiction Stories 1800-1849
+politics,19,59.54,2,0,books,Libertarianism for Beginners
+poetry,19,27.7,1,0,books,Olio
+travel,19,52.4,2,0,books,It's Only the Himalayas
+music,19,66.41,3,0,books,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991"
+music,19,40.62,5,0,books,Rip it Up and Start Again
+poetry,22,60.05,3,0,books,A Light in the Attic
+young adult,19,20.25,5,0,books,Set Me Free
+sequential art,19,60.66,5,0,books,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+poetry,19,23.97,4,0,books,Shakespeare's Sonnets
+poetry,19,60.49,1,0,books,The Black Maria
+default,19,16.23,2,0,books,"Starving Hearts (Triangular Trade Trilogy, #1)"
+default,19,26.22,4,0,books,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+business,19,38.67,4,0,books,The Dirty Little Secrets of Getting Your Dream Job
+default,19,20.8,3,0,books,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull"
+young adult,19,26.27,1,0,books,The Requiem Red
+history,20,62.91,5,0,books,Sapiens: A Brief History of Humankind
+mystery,20,55.47,4,0,books,Sharp Objects
+historical fiction,20,62.34,1,0,books,Tipping the Velvet
+fiction,20,58.12,1,0,books,Soumission
+childrens,18,42.79,1,0,books,The Bear and the Piano
+thriller,18,27.63,5,0,books,The Elephant Tree
+thriller,18,60.58,4,0,books,Behind Closed Doors
+poetry,17,39.01,2,0,books,You can't bury them all: Poems
+mystery,18,22.77,1,0,books,"In a Dark, Dark Wood"
+default,18,38.62,3,0,books,Penny Maybe
+default,18,20.9,2,0,books,Maude (1883-1993):She Grew Up with the country
+spirituality,18,20.49,5,0,books,The Four Agreements: A Practical Guide to Personal Freedom
+nonfiction,18,46.75,5,0,books,Worlds Elsewhere: Journeys Around Shakespeare’s Globe
+art,18,51.25,4,0,books,Wall and Piece
+default,19,26.1,3,0,books,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana
+default,19,61.63,3,0,books,Aladdin and His Wonderful Lamp
+childrens,19,63.38,3,0,books,Birdsong: A Story in Pictures
+romance,19,40.05,5,0,books,Black Dust
+romance,19,29.31,5,0,books,Chase Me (Paris Nights #2)
+food and drink,19,35.4,3,0,books,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More"
+young adult,16,52.46,3,0,books,The Natural History of Us (The Fine Art of Pretending #2)
+mystery,16,65.54,4,0,books,The Past Never Ends
+food and drink,16,65.44,1,0,books,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!"
+childrens,16,65.11,1,0,books,The Secret of Dreadwillow Carse
+add a comment,16,22.14,1,0,books,The Torch Is Passed: A Harding Family Story
+fiction,16,20.03,5,0,books,Thirst
+nonfiction,16,36.1,3,0,books,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+sequential art,16,22.61,4,0,books,This One Summer
+sequential art,16,18.88,1,0,books,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)
+history,16,29.6,1,0,books,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink"
+nonfiction,16,51.25,4,0,books,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness"
+poetry,16,16.55,4,0,books,Untitled Collection: Sabbath Poems 2014
+fantasy,16,21.78,3,0,books,Unicorn Tracks
+fiction,16,58.31,5,0,books,"We Love You, Charlie Freeman"
+new adult,16,52.28,2,0,books,Without Borders (Wanderlove #1)
+contemporary,16,36.85,1,0,books,When We Collided
+sequential art,16,58.46,3,0,books,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)"
+nonfiction,16,23.0,2,0,books,Reskilling America: Learning to Labor in the Twenty-First Century
+sequential art,16,59.21,2,0,books,"Saga, Volume 5 (Saga (Collected Editions) #5)"
+fantasy,16,29.02,3,0,books,"Saga, Volume 6 (Saga (Collected Editions) #6)"
+default,16,45.91,2,0,books,Soul Reader
+horror,16,45.53,2,0,books,Security
+spirituality,16,37.4,5,0,books,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution
+nonfiction,16,48.52,4,0,books,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up
+history,16,22.89,1,0,books,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind
+health,16,56.9,3,0,books,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life"
+add a comment,16,47.28,3,0,books,The Art Forger
+philosophy,16,67.41,4,0,books,The Death of Humanity: and the Case for Life
+nonfiction,16,65.03,1,0,books,The Electric Pencil: Drawings from Inside State Hospital No. 3
+nonfiction,16,43.07,1,0,books,The Gutsy Girl: Escapades for Your Life of Epic Adventure
+default,16,23.88,5,0,books,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer"
+nonfiction,16,25.52,4,0,books,In the Country We Love: My Family Divided
+science fiction,16,41.38,5,0,books,Join
+sequential art,16,23.11,2,0,books,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)
+add a comment,16,62.52,2,0,books,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)
+food and drink,16,46.53,1,0,books,"Layered: Baking, Building, and Styling Spectacular Cakes"
+sequential art,16,54.42,2,0,books,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)"
+fantasy,16,65.42,2,0,books,Masks and Shadows
+food and drink,16,16.26,4,0,books,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed"
+young adult,16,17.24,2,0,books,Obsidian (Lux #1)
+food and drink,16,38.71,2,0,books,My Paris Kitchen: Recipes and Stories
+add a comment,16,16.32,3,0,books,On a Midnight Clear
+self help,16,53.77,1,0,books,Online Marketing for Busy Authors: A Step-By-Step Guide
